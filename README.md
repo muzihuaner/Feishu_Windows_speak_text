@@ -43,7 +43,7 @@ v1.0 (2025-03-12)
 ## 开发
 ### 拉取代码
 ```
-https://github.com/muzihuaner/Feishu_Windows_speak_text.git
+git clone https://github.com/muzihuaner/Feishu_Windows_speak_text.git
 ```
 ### 安装所需库：
 ```
