@@ -1,6 +1,6 @@
 # 飞书消息弹窗语音通知程序
 # 作者：李欢
-# Github:https://github.com/muzihuaner/Feishu_Windows_speak_tex
+# Github:https://github.com/muzihuaner/Feishu_Windows_speak_text
 import time
 import psutil 
 import pywinauto
