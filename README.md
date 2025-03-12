@@ -40,6 +40,20 @@
 v1.0 (2025-03-12)
 - 初始版本发布
 
+## 开发
+### 拉取代码
+```
+https://github.com/muzihuaner/Feishu_Windows_speak_text.git
+```
+### 安装所需库：
+```
+pip install pyinstaller psutil pywinauto pyttsx3 pystray pillow
+```
+### 执行打包命令
+打开CMD，运行
+```
+build.bat
+```
 ## TODO
 1.无法获取弹窗内容
 2.关于页面无法关闭
