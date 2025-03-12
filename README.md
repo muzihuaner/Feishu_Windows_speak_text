@@ -55,5 +55,5 @@ pip install pyinstaller psutil pywinauto pyttsx3 pystray pillow
 build.bat
 ```
 ## TODO
-1.无法获取弹窗内容
+1.无法获取弹窗内容(可选)  
 2.关于页面无法关闭
